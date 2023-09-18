@@ -16,7 +16,7 @@ public class CourseController {
                 new Course(2,"Learn Spring boot","Abdullah"),
                 new Course(3,"Learn AWS","Abdullah"),
                 new Course(4,"Learn Azure","Abdullah"),
-                new Course(5,"Learn Azure","Rana Abdullah")
+                new Course(5,"Learn MAc","Rana Abdullah")
         );
     }
 }
